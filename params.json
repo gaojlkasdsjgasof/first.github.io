@@ -1,0 +1,6 @@
+{
+  "name": "First.GitHub.io",
+  "tagline": "aaa",
+  "body": "### Welcome to GitHub Pages.\r\n\r\n\r\n\r\nAjax技术在购物车中的应用（PHP篇）\r\n\r\n课程简介：概念到电子商城购物车实例中商品的添加、展示、修改和删除的开发实践，深入剖析了Ajax的工作原理以及开发理念，从而帮助小伙伴们更好地由浅至深地学习Ajax的项目设...\r\n课程大纲：原理剖析 1-1Ajax异步加载常见案例解析 1-2Ajax基本工作原理 第2章Ajax小试牛刀 2-1$.get()请求实现异步加载 2-2$.post()请求实现异步加载 2...\r\n\r\nThis automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.\r\n\r\n### Designer Templates\r\nWe’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
